@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @AhmedEmad012
-- 👀 I’m interested in Web programming
-- 🌱 I’m currently learning Web programming
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 Hi, I'm [AhmedEmad]
+A beginner web developer passionate about learning website programming and building interactive web applications.
 
-<!---
-AhmedEmad012/AhmedEmad012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Languages and Technologies I'm Learning: HTML, CSS, JavaScript, React, Node.js
+🔧 Current Goals: Building interactive web projects and gaining hands-on experience in web development.
+📚 Currently Learning: Front-end development, UI/UX design, and improving my coding skills.
+📂 My Projects: Contributing to open-source web projects and always striving to improve my skills.
+✨ Always on a learning journey!
