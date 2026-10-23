@@ -1,13 +1,31 @@
-👨‍💻 Hi, I'm [AhmedEmad]
+# 👨‍💻 Hi, I'm Ahmed Emad Hamdy
 
-A beginner web developer passionate about learning website programming and building interactive web applications.
+### 💻 Fresh .NET Backend Developer
 
-🌐 Languages and Technologies I'm Learning: HTML, CSS, JavaScript, React, Node.js
+I'm a backend developer passionate about building reliable, secure, and efficient web applications using the .NET ecosystem.
 
-🔧 Current Goals: Building interactive web projects and gaining hands-on experience in web development.
+### 🛠️ Technologies & Tools
 
-📚 Currently Learning: Front-end development, UI/UX design, and improving my coding skills.
+- **Languages:** C#
+- **Backend:** .NET, ASP.NET Core Web API
+- **Database:** SQL Server, Entity Framework Core, LINQ
+- **Tools:** Git, GitHub, Postman
+- **Concepts:** RESTful APIs, OOP, Clean Code
 
-📂 My Projects: Contributing to open-source web projects and always striving to improve my skills.
+### 🎯 What I'm Working On
 
-✨ Always on a learning journey!
+- Building RESTful APIs using ASP.NET Core.
+- Designing and managing relational databases.
+- Implementing authentication and payment integrations.
+- Improving my problem-solving and software development skills.
+
+### 📂 Projects
+
+Check out my repositories to explore my backend projects and see what I'm building.
+
+### 📫 Let's Connect
+
+- **GitHub:** You're already here!
+- **LinkedIn:** [Ahmed Emad Hamdy](YOUR_LINKEDIN_URL)
+
+### 🚀 Always Learning, Always Building!
